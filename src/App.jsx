@@ -9,7 +9,7 @@ function App() {
 
   return (
     <p>
-      {1+2}
+      {1 + 2 + 3}
     </p>
 
   )
